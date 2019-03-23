@@ -26,6 +26,7 @@ class PageCarton extends Ayoola_Application
      * @var string
      */
 	const VERSION = '1.8.55'; 
+	const docUrl  = 'http://http://docs.pagecarton.org/';
 
 	// END OF CLASS
 }
